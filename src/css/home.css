@@ -47,23 +47,33 @@ header nav{
 main{
     display: grid;
     grid-row: 2/3;
-    grid-template-rows: 15% 50% 4% 7% 24%;
+    grid-template-rows: 7% 58% 4% 7% 24%;
     grid-template-columns: 35% 1fr 35%;
     background: #ffffff;
+    padding: 10px 10px;
 
 }
 
 main span{
     display: flex;
+    padding: 10px;
+    color:#ffffff;
+
     flex-direction: column;
     grid-row: 2/3;
-    grid-column: 2/3;
-    justify-content: center;
-    align-items: center;
+    grid-column: 1/4;
     background-color: rgba(0, 0, 0, 0.9);
     border-radius: 10px;
     
 
+}
+
+.paragrafo{
+  font-size: 20px;
+  text-align: justify;
+  text-indent: 10px;
+  padding: 15px;
+  
 }
 
 main div{
