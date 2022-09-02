@@ -155,3 +155,44 @@ body{
 .letra-preta{
     color:black;
 }
+
+.fundo{
+    border-radius: 20px;
+    background-color: rgba(92, 92, 86, 0.199);
+}
+
+.absoluto{
+    position: absolute;
+    top: 2%;
+    right: 20px;
+}
+
+
+
+.cabecalho{
+    display: flex;
+    flex-direction: row;
+
+
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.item {
+	margin: 5px;
+
+	text-align: center;
+	font-size: 0.2em;
+
+}
+
+.container {
+	max-width: 2000px;
+	margin: 0 auto;
+
+
+}
+ .text-decoration{
+    text-decoration: none;
+    color:#fff;
+ }
