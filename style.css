@@ -163,8 +163,9 @@ body{
 
 .absoluto{
     position: absolute;
-    top: 2%;
-    right: 20px;
+    top: 1%;
+    right: 5px;
+    font-size: 12px;
 }
 
 
@@ -172,11 +173,40 @@ body{
 .cabecalho{
     display: flex;
     flex-direction: row;
-
-
     font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
 
 }
+
+.paragrafo-cabecalho{
+    font-size: 22px;
+    text-align: justify;
+    text-indent: 30px;
+    padding: 2px 30px;
+
+}
+
+@media only screen and (min-width: 1160px) and (max-width:1444px){
+    .paragrafo-cabecalho{
+        font-size: 16px;
+    }
+    body{
+        grid-template-rows: 108.5% 390% 120%;
+    }
+
+}
+
+@media only screen and (min-width: 200px) and (max-width:1160px){
+    .paragrafo-cabecalho{
+        font-size: 13px;
+        text-align: right;
+    }
+    body{
+        grid-template-rows: 108.5% 390% 120%;
+    }
+
+}
+
 
 .item {
 	margin: 5px;
