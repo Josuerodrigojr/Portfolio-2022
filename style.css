@@ -213,10 +213,15 @@ h1{
 
 }
 
+.centralizando{
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
 
 .item {
 	margin: 5px;
-
 	text-align: center;
 	font-size: 0.2em;
 
