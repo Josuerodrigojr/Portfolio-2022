@@ -39,6 +39,10 @@ header div {
     width: 100%
 }
 
+header div img{
+  height: 250px;
+}
+
 
 
 main{
