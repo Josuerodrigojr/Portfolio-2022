@@ -23,6 +23,10 @@ body{
     font-size: 30px;
 }
 
+h1{
+    padding: 20px;
+}
+
 
 .area{
     background: #00010a;  
@@ -179,7 +183,7 @@ body{
 }
 
 .paragrafo-cabecalho{
-    font-size: 22px;
+    font-size: 24px;
     text-align: justify;
     padding: 2px 30px;
 
