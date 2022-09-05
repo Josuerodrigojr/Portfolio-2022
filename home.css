@@ -5,7 +5,7 @@ html{
 
 body{
     display: grid;
-    grid-template-rows: 108.5% 360% 120%;
+    grid-template-rows: 108.5% 373% 120%;
     height: 100%;
     margin:0%;
     text-align: justify;
