@@ -165,7 +165,7 @@ body{
     position: absolute;
     top: 1%;
     right: 5px;
-    font-size: 12px;
+
 }
 
 
@@ -189,9 +189,16 @@ body{
 @media only screen and (min-width: 1160px) and (max-width:1444px){
     .paragrafo-cabecalho{
         font-size: 16px;
+        text-align: right;
     }
     body{
         grid-template-rows: 108.5% 390% 120%;
+    }
+    .absoluto{
+        position: absolute;
+        top: 0.5%;
+        right: 3px;
+    
     }
 
 }
@@ -203,6 +210,13 @@ body{
     }
     body{
         grid-template-rows: 108.5% 390% 120%;
+    }
+
+    .absoluto{
+        position: absolute;
+        top: 0.3%;
+        right: 2px;
+    
     }
 
 }
