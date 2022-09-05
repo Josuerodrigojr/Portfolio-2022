@@ -464,7 +464,7 @@ footer nav{
   }
   .cd-timeline-content p, .cd-timeline-content .cd-read-more, .cd-timeline-content .cd-date {
 
-    font-size: 0.8125rem;
+    font-size: 1rem;
   }
   .cd-timeline-content .cd-read-more, .cd-timeline-content .cd-date {
     display: inline-block;
