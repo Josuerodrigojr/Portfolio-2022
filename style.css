@@ -194,12 +194,6 @@ body{
     body{
         grid-template-rows: 108.5% 390% 120%;
     }
-    .absoluto{
-        position: absolute;
-        top: 0.9%;
-        right: 3px;
-    
-    }
 
 }
 
@@ -212,12 +206,7 @@ body{
         grid-template-rows: 108.5% 390% 120%;
     }
 
-    .absoluto{
-        position: absolute;
-        top: 0.8%;
-        right: 2px;
-    
-    }
+
 
 }
 
