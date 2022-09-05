@@ -158,9 +158,14 @@ footer nav{
    
   .img {
 
-    max-width: 160px;
-    max-height: 160px;
+    max-width: 200px;
+
   }
+
+  .img-tecnologias{
+    width: 120px;
+  }
+
   .a{
     float: right;
   }
