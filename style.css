@@ -198,6 +198,10 @@ h1{
         grid-template-rows: 108.5% 390% 120%;
     }
 
+    header div img{
+        height: 300px;
+    }
+
 }
 
 @media only screen and (min-width: 200px) and (max-width:1160px){
@@ -207,6 +211,9 @@ h1{
     }
     body{
         grid-template-rows: 108.5% 390% 120%;
+    }
+    header div img{
+        height: 300px;
     }
 
 
