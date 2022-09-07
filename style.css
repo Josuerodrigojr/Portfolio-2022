@@ -168,7 +168,7 @@ h1{
 .absoluto{
     position: absolute;
     top: 2%;
-    right: 5px;
+
 
 }
 
@@ -177,7 +177,7 @@ h1{
 .cabecalho{
     display: flex;
     flex-direction: row;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    Font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
     
 
 }
@@ -250,3 +250,5 @@ h1{
     text-decoration: none;
     color:#fff;
  }
+
+ 
