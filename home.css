@@ -254,6 +254,11 @@ footer nav{
     border-left: 3px solid #00060e;
   }
 
+  .dark-blue
+  {
+    border-left: 3px solid #294f96;
+  }
+
   .green-light{
     border-left: 3px solid #A6F750;
   }
@@ -372,6 +377,11 @@ footer nav{
 
   .cd-timeline-img.cd-lets {
     background: #A6F750;
+
+  }
+
+  .cd-timeline-img.cd-sistema {
+    background: #294f96;
 
   }
   
